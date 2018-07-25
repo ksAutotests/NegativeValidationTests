@@ -1,4 +1,4 @@
-﻿---
+---
 title: autotest tutorial with validation forms
 description: autotest description
 primary_tag: tutorial:product/mobile
