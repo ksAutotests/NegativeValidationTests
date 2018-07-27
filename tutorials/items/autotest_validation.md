@@ -2,9 +2,8 @@
 title: autotest tutorial with validation forms
 description: autotest description
 primary_tag: tutorial:product/mobile
-tags: [tutorial:product/sapHana]
+tags: [tutorial:product/sapHana, tutorial:experience/beginner]
 qrcode: true
-experience: tutorial:experience/beginner
 time: 600
 author_link: https://github.com/ksAutotests
 author: ksAutotests
